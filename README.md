@@ -1,4 +1,4 @@
-<h3 align="center">Hola soy estudiante de tercer año en Licenciatura en
+<h3 align="center">Hola soy estudiante en Licenciatura en
 Sistemas de Información y Analista en Sistemas
 de Computación, he adquirido experiencia en
 programación web full stack y me especializo en
