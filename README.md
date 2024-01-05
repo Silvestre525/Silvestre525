@@ -1,10 +1,4 @@
-<h3 align="center">Hola soy estudiante en Licenciatura en
-Sistemas de Información y Analista en Sistemas
-de Computación, he adquirido experiencia en
-programación web full stack y me especializo en
-el desarrollo de aplicaciones centradas en el
-backend, aunque también he participado en
-proyectos de frontend.</h3>
+<h3 align="center">Hello, I am a student pursuing a Bachelor's in Information Systems and working as a Computer Systems Analyst. My experience spans full-stack web development, with a specialization in backend-focused application development. While I've contributed to frontend projects, my primary expertise lies in backend development. I predominantly utilize Python, particularly with the Django framework for backend tasks, and Angular for frontend work..</h3>
 
 <h3 align="left">redes:</h3>
 <p align="left">
