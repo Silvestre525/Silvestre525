@@ -16,7 +16,7 @@
 ---
 <div aling="left" id="tools">
   <h2>
-    Herramientas y Lenguajes:
+     ⚒️⚒️Herramientas y Lenguajes:
   </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40">
