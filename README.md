@@ -9,6 +9,9 @@
   <a href="https://twitter.com/Silvestre525" align="center"">
       <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FSilvestre525">
   </a>
+  <a>
+    <img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvillarsilvestre%2F">
+  </a>
   <a  align="center"">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Silvestre525">
   </a>
