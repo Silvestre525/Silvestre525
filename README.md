@@ -26,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="node" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" width="40">
     
   </div>
 </div>
