@@ -19,6 +19,6 @@
     Herramientas y Lenguajes:
   </h2>
   <div>
-    <img src="[https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvillarsilvestre%2F](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   </div>
 </div>
