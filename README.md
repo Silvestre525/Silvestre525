@@ -20,5 +20,12 @@
   </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-plain.svg" title="djangoRestFramework" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="node" width="40">
+    
   </div>
 </div>
