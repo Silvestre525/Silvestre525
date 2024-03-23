@@ -20,6 +20,7 @@
   </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="pandas" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40">
