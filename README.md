@@ -4,7 +4,7 @@
       Bienvenidos!!
   </h1>
   
-## 🚀 About Me
+## 🚀 Sobre Mi
 Soy un desarrollador web especializado en el backend, con una sólida experiencia en la creación y mantenimiento de aplicaciones web robustas y escalables. Mi enfoque principal está en el uso de tecnologías Python, aprovechando frameworks como Django y librerias como Django REST framework para construir interfaces de programación de aplicaciones (APIs) eficientes y bien estructuradas.
 
 Tengo competencia en la implementación y gestión de infraestructuras en la nube utilizando AWS, lo que me permite diseñar soluciones que son tanto seguras como altamente disponibles. Además, tengo una profunda comprensión de bases de datos relacionales, con habilidades prácticas en MySQL y PostgreSQL, asegurando que los datos se manejen de manera eficiente y con integridad.
