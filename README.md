@@ -32,10 +32,11 @@
 </div>
 ----
 ### 📊Estado: 
-<div align="center">
+
+<div align="left">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Silvestre525&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvestre525&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre525)](https://github.com/anuraghazra/github-readme-stats)
 
 
