@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47lhkqd4o5hw7ivfudiyxvsh0q0xig9ynf18posh46&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
-  <h1 align="center">
-      Bienvenidos!!
-  </h1>
+# Hola, me llamo Silvestre! 👋
   
 ## 🚀 Sobre Mi
 Soy un desarrollador web especializado en el backend, con una sólida experiencia en la creación y mantenimiento de aplicaciones web robustas y escalables. Mi enfoque principal está en el uso de tecnologías Python, aprovechando frameworks como Django y librerias como Django REST framework para construir interfaces de programación de aplicaciones (APIs) eficientes y bien estructuradas.
