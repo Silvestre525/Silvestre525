@@ -16,7 +16,7 @@
 ---
 <div aling="left" id="tools">
   <h2>
-     ⚒️⚒️Herramientas y Lenguajes:
+     ⚒️Herramientas y Lenguajes:
   </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40">
@@ -30,6 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" width="40">
   </div>
 </div>
+<br>
 ----
 ### 📊Estado: 
 
@@ -37,6 +38,6 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Silvestre525&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silvestre525)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvestre525&Compactlayout=true)
 
 
