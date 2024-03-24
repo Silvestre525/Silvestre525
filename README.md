@@ -1,8 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47lhkqd4o5hw7ivfudiyxvsh0q0xig9ynf18posh46&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
   <h1 align="center">
-      Hola soy un desarrollador web centrado en el backend y estudiante de Licenciatura en sistemas de infromación
+      Bienvenidos!!
   </h1>
+  <h3>
+Soy un desarrollador web especializado en el backend, con una sólida experiencia en la creación y mantenimiento de aplicaciones web robustas y escalables. Mi enfoque principal está en el uso de tecnologías Python, aprovechando frameworks como Django y Django REST framework para construir interfaces de programación de aplicaciones (APIs) eficientes y bien estructuradas.
+
+Tengo competencia en la implementación y gestión de infraestructuras en la nube utilizando AWS, lo que me permite diseñar soluciones que son tanto seguras como altamente disponibles. Además, tengo una profunda comprensión de bases de datos relacionales, con habilidades prácticas en MySQL y PostgreSQL, asegurando que los datos se manejen de manera eficiente y con integridad.
+
+Mi pasión por el desarrollo backend se complementa con un compromiso continuo con el aprendizaje y la mejora de mis habilidades, lo que me permite adaptarme a las tecnologías emergentes y las mejores prácticas en el campo del desarrollo web
+  </h3>
 </div>
 
 <div id="badges" align="center">
