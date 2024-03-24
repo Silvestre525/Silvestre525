@@ -8,6 +8,10 @@ Tengo competencia en la implementación y gestión de infraestructuras en la nub
 Mi pasión por el desarrollo backend se complementa con un compromiso continuo con el aprendizaje y la mejora de mis habilidades, lo que me permite adaptarme a las tecnologías emergentes y las mejores prácticas en el campo del desarrollo web
 
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villarsilvestre/)
+
 </div>
 
 <div id="badges" align="center">
