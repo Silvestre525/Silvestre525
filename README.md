@@ -32,5 +32,5 @@
 </div>
 ----
 ### 📊Estado: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Silvestre525&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Silvestre525&theme=radical&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
