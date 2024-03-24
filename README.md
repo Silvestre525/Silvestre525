@@ -19,6 +19,9 @@ Mi pasión por el desarrollo backend se complementa con un compromiso continuo c
   <a  align="center"">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Silvestre525">
   </a>
+
+  [![LinkedIn](https://url_del_icono.svg)]([https://www.linkedin.com/tu_perfil](https://www.linkedin.com/in/villarsilvestre/))
+
 </div>
 ---
 <div aling="left" id="tools">
