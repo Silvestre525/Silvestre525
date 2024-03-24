@@ -8,22 +8,12 @@ Tengo competencia en la implementación y gestión de infraestructuras en la nub
 Mi pasión por el desarrollo backend se complementa con un compromiso continuo con el aprendizaje y la mejora de mis habilidades, lo que me permite adaptarme a las tecnologías emergentes y las mejores prácticas en el campo del desarrollo web
 
 
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villarsilvestre/)
+## 🔗 Contacto:
 
-</div>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Silvestre525)
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/Silvestre525" align="center"">
-      <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FSilvestre525">
-  </a>
-  <a  align="center"">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Silvestre525">
-  </a>
-
-
-</div>
 
 <div aling="left" id="tools">
   <h2>
