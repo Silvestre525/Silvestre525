@@ -35,9 +35,9 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=activitypub" />
-  </a>
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=python-dark,java-dark,django-dark,spring-dark,mysql-dark,postgresql-dark,postman-dark,swagger-dark" alt="Tecnologías" width="40" height="40">
+</p>
 </p>
 </p>
 
