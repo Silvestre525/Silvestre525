@@ -37,6 +37,7 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 <p align="center">
   <p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" >
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" >
 </p>
 </p>
 </p>
