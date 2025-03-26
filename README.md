@@ -5,9 +5,8 @@
 <h1 align="center">Hola 👋, ¡Soy Silvestre!</h1>
 <h3 align="center">Desarrollador Backend con Experiencia en Python y Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=villarsilvestre&label=Profile%20views&color=0e75b6&style=flat" alt="villarsilvestre" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Silvestre525" target="blank"><img src="https://img.shields.io/twitter/follow/Silvestre525?logo=twitter&style=for-the-badge" alt="Silvestre525" /></a> </p>
+
 
 ## 🚀 Sobre Mí
 Soy un desarrollador backend con 2 años de experiencia en el diseño e implementación de APIs RESTful utilizando Python (Django) y Java (Spring Boot). Mi enfoque principal está en la creación y mantenimiento de aplicaciones web robustas y escalables.
@@ -28,11 +27,8 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 
 - 📫 Cómo contactarme: **Puedes encontrarme en LinkedIn (enlace abajo).**
 
-- ⚡ Dato curioso: **El primer "bug" informático fue una polilla real atrapada en un relé de una computadora.**
-
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/Silvestre525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Silvestre525" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/villarsilvestre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="villarsilvestre" height="30" width="40" /></a>
 </p>
 
@@ -50,8 +46,3 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=villarsilvestre&show_icons=true&locale=en&layout=compact" alt="villarsilvestre" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=villarsilvestre&show_icons=true&locale=en" alt="villarsilvestre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villarsilvestre&" alt="villarsilvestre" /></p>
