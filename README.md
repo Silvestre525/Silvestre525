@@ -36,7 +36,7 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 <p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=django, mysql" />
   </a>
 </p>
 </p>
