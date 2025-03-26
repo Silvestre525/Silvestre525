@@ -19,11 +19,9 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 
 - 🔭 Actualmente trabajando en: **Mis proyectos personales**
 
-- 🌱 Actualmente aprendiendo: **Nuevas tendencias en desarrollo backend y arquitecturas de microservicios.**
+- 🌱 Actualmente aprendiendo: **Nuevas tendencias en desarrollo backend**
 
 - 👯 Busco colaborar en: **Proyectos interesantes de código abierto y desafíos técnicos.**
-
-- 💬 Pregúntame sobre: **Python, Django, Java, Spring Boot, APIs RESTful, bases de datos relacionales.**
 
 - 📫 Cómo contactarme: **Puedes encontrarme en LinkedIn (enlace abajo).**
 
