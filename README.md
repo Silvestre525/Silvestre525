@@ -34,6 +34,6 @@ Mi compromiso es escribir código limpio y mantenible, optimizando las consultas
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
-[My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
