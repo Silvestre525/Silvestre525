@@ -9,7 +9,7 @@
 
 
 ## 🚀 Sobre Mí
-Soy un desarrollador backend con 2 años de experiencia en el diseño e implementación de APIs RESTful utilizando Python (Django) y Java (Spring Boot). Mi enfoque principal está en la creación y mantenimiento de aplicaciones web robustas y escalables.
+Soy un desarrollador backend con +2 años de experiencia en el diseño e implementación de APIs RESTful utilizando Python (Django) y Java (Spring Boot). Mi enfoque principal está en la creación y mantenimiento de aplicaciones web robustas y escalables.
 
 Especializado en bases de datos relacionales como MySQL y PostgreSQL, aseguro un manejo eficiente y con integridad de los datos. Además, tengo experiencia en la realización de pruebas unitarias y la documentación de APIs con Swagger.
 
